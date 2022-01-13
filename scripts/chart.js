@@ -102,5 +102,5 @@ d3.tsv("data.tsv", function(error, data) {
 });
 }
 
-drawLineChart('#apple-stock-chart');
-drawLineChart('#apple-stock-chart-2');
+drawLineChart('apple-stock-chart');
+drawLineChart('apple-stock-chart-2');
