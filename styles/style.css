@@ -13,6 +13,12 @@ body {
   display: none;
 }
 
+#apple-stock-chart-2 .line {
+  fill: none;
+  stroke: green;
+  stroke-width: 1.5px;
+}
+
 .chart .line {
   fill: none;
   stroke: steelblue;
@@ -21,7 +27,7 @@ body {
 
 #apple-stock-chart .line {
   fill: none;
-  stroke: green;
+  stroke: steelblue;
   stroke-width: 1.5px;
 }
 
@@ -35,8 +41,3 @@ body {
   stroke: steelblue;
 }
 
-#apple-stock-chart-2 .line {
-  fill: none;
-  stroke: green;
-  stroke-width: 1.5px;
-}
